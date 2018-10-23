@@ -166,7 +166,7 @@ setInterval(function(){
 
 setInterval(function(){
 
-	spam.send('shit')
+	spam.send('fuck')
 
 }, 1500);	
 
