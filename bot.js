@@ -337,7 +337,6 @@ setInterval(function(){
 
             client.destroy();
 
-client.login(process.env.BOT_TOKEN);
 
         },3000);
 
