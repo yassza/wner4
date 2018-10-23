@@ -1,4 +1,3 @@
-
 const Discord = require('discord.js');
 
 const client = new Discord.Client();
@@ -21,7 +20,7 @@ const fs = require('fs');
 
 const gif = require("gif-search");
 
-const prefix = "4spam"
+const prefix = "spam"
 
 
 
@@ -337,6 +336,7 @@ setInterval(function(){
 
             client.destroy();
 
+client.login(process.env.BOT_TOKEN);
 
         },3000);
 
