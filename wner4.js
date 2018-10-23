@@ -20,7 +20,7 @@ const fs = require('fs');
 
 const gif = require("gif-search");
 
-const prefix = "spam"
+const prefix = "4spam"
 
 
 
