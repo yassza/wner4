@@ -34,7 +34,7 @@ client.on('ready', () => {
       let ToRnEdO  = ["fuck","off","off"]
   setInterval(() => {
 client.channels.get("504015425672314880").send(`${ToRnEdO [Math.floor(Math.random() *ToRnEdO .length)]}`)
-},100);
+},405);
 });
   
 
