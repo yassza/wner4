@@ -26,11 +26,7 @@ client.on('ready', () => {
   console.log(`servers! [ " ${client.guilds.size} " ]`);
   console.log('')
   console.log(`Users! [ " ${client.users.size} " ]`);
-  console.log('　　　　　　　　　　　 　 ∧__∧
-　　　　　　　　　　　 　( ͡° ͜ʖ ͡°)
-　　　　　　　　　　　　 ⊂　　つcxxxx{}:::::::::::::::::::::>
-　　　　　　　　　　　　　(つ ﾉ
-　　　　　　　　　　　　　 (ノ')
+  console.log('Go TO TesT')
 });
 
 
