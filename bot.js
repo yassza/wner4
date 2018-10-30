@@ -17,7 +17,7 @@ const fs = require('fs');
 
 
 
-const prefix = "1"
+const prefix = "4"
 
 client.on('ready', () => {
   console.log('cxxxx[]̲̅ ̲̅ ̲̅ ̲̅.̲̅ ̲̅ ̲̅.̲̅ ̲̅ ̲̅.̲̅ ̲̅ ̲̅.̲̅ ̲̅ ̲̅.̲̅ ̲̅ ̅/')
@@ -85,7 +85,7 @@ client.on('message', message => {
 
 
 client.on('message', message => {
-    if(message.content === '1ريب'){
+    if(message.content === '1@'){
         message.channel.send('#rep <@504016941179076610>')
     }
 });
